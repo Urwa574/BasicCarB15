@@ -10,10 +10,17 @@ public class Main {
         engine.size="1454";
         engine.weight="jhye891";
 
+
         color color=new color();
         color.colorLights="True";
         color.colorTyre="false";
         color.colorWindow="true";
+
+
+        lights l=new lights();
+        l.color="red";
+        l.size="15cm";
+        l.intensity="hdgyf";
 
     }
 }
