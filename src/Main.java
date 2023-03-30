@@ -9,5 +9,11 @@ public class Main {
         engine.cylinder="8";
         engine.size="1454";
         engine.weight="jhye891";
+
+        color color=new color();
+        color.colorLights="True";
+        color.colorTyre="false";
+        color.colorWindow="true";
+
     }
 }
