@@ -9,5 +9,10 @@ public class Main {
         engine.cylinder="8";
         engine.size="1454";
         engine.weight="jhye891";
+
+        lights l=new lights();
+        l.color="red";
+        l.size="15cm";
+        l.intensity="hdgyf";
     }
 }
